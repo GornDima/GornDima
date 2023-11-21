@@ -26,11 +26,11 @@
 
 🛠️ Языки инструменты:
 
-<div>
-  <img src="https://github.com/devicons/devicon/biob/master/icons/photoshop/photoshop-line.sv:" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master icons/figma/figma-original.sva" width="40" height="40™/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-  <img src="htts:github.com/devicons/devicon/blob/master/icons/git/git.original-wordmark=sv9" idth="49" height="49™/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<div> 
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/≥
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="40" height="40"/>
 </div>
