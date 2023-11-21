@@ -48,5 +48,5 @@
 
 📊 Статистика активности
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username-GornDima&theme-dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GornDima&theme-dracula" alt=""/>
 </div>
