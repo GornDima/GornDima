@@ -34,3 +34,5 @@
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="40" height="40"/>
 </div>
+
+🏆Достижения:
