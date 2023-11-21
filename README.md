@@ -16,4 +16,7 @@
   <h1> Профиль на GITHUB </h1>
 </div>
 
-:man_technologist: 0бо мне:
+###:man_technologist: Обо мне:|
+:space_invader: Факт обо мне:
+:technologist: Факт обо мне:
+:couple: Факт обо мне:
