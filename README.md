@@ -9,5 +9,5 @@
 </div>
 
 <div id= "viewprof" align= "center" >
-  <ing src=https://github.com/GornDima&style=flat-square&color=blue" alt=""/>
+  <ing src= https://komarev.com/ghpvc/?username=GornDima&style=flat-square&color=blue" alt=""/>
 </div>
