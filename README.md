@@ -36,3 +36,7 @@
 </div>
 
 🏆Достижения:
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=GornDima" alt=""/>
+</div>
